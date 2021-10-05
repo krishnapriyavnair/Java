@@ -25,7 +25,7 @@ class Q4_AverageException
 	}
 	public static void main(String args[])
 	{
-		AverageException ob1= new AverageException();
+		Q4_AverageException ob1= new Q4_AverageException();
 		try
 		{
 			ob1.read();
